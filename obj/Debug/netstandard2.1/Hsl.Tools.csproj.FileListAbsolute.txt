@@ -1,0 +1,9 @@
+F:\Hsl.Tools\obj\Debug\netstandard2.1\Hsl.Tools.csprojAssemblyReference.cache
+F:\Hsl.Tools\obj\Debug\netstandard2.1\Hsl.Tools.AssemblyInfoInputs.cache
+F:\Hsl.Tools\obj\Debug\netstandard2.1\Hsl.Tools.AssemblyInfo.cs
+F:\Hsl.Tools\obj\Debug\netstandard2.1\Hsl.Tools.csproj.CoreCompileInputs.cache
+F:\Hsl.Tools\bin\Debug\netstandard2.1\Hsl.Tools.deps.json
+F:\Hsl.Tools\bin\Debug\netstandard2.1\Hsl.Tools.dll
+F:\Hsl.Tools\bin\Debug\netstandard2.1\Hsl.Tools.pdb
+F:\Hsl.Tools\obj\Debug\netstandard2.1\Hsl.Tools.dll
+F:\Hsl.Tools\obj\Debug\netstandard2.1\Hsl.Tools.pdb

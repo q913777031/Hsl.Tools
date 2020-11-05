@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.1</TargetFramework>
+		<Description>
+			包含一些常用的操作类
+		</Description>
+		<Copyright>Copyright © Hsl</Copyright>
+		<PackageProjectUrl>https://github.com/ldqk/Masuit.Tools</PackageProjectUrl>
+		<PackageTags>Masuit.Tools,工具库,Utility,Crypt,Extensions</PackageTags>
+		<PackageReleaseNotes>如有问题请联系作者</PackageReleaseNotes>
+		<PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
+		<PackageLicenseUrl>https://github.com/ldqk/Masuit.Tools/blob/master/LICENSE</PackageLicenseUrl>
+		<Product>Hsl.Tools</Product>
+		<PackageId>Hsl.Tools</PackageId>
+		<LangVersion>6.0</LangVersion>
+		<UserSecretsId>830c282f-f7c1-42be-8651-4cd06ac8e73f</UserSecretsId>
+		<RepositoryType>Github</RepositoryType>
+		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+		<Version>1.0.0.0</Version>
+		<FileVersion>1.0.0.0</FileVersion>
+		<Company>RX</Company>
+		<AssemblyVersion>1.0.0.0</AssemblyVersion>
+		<Authors>Hsl</Authors>
+		<RepositoryUrl></RepositoryUrl>
+	</PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.ComponentModel.Annotations" Version="4.3.0" />
+  </ItemGroup>
+
+</Project>

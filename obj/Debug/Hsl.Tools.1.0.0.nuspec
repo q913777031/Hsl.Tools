@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Hsl.Tools</id>
+    <version>1.0.0</version>
+    <authors>Hsl</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/ldqk/Masuit.Tools/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/ldqk/Masuit.Tools</projectUrl>
+    <description>包含一些常用的操作类</description>
+    <releaseNotes>如有问题请联系作者</releaseNotes>
+    <copyright>Copyright © Hsl</copyright>
+    <tags>Masuit.Tools,工具库,Utility,Crypt,Extensions</tags>
+    <repository type="Github" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="System.ComponentModel.Annotations" version="4.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\Hsl.Tools\bin\Debug\netstandard2.1\Hsl.Tools.dll" target="lib\netstandard2.1\Hsl.Tools.dll" />
+  </files>
+</package>
